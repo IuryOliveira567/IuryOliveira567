@@ -5,7 +5,7 @@ I'm a front-end developer with a passion for software development and design.  �
 
 📚 I’m currently learning ... Python, Postgresql
 
-[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iury-oliveira-1aa199207/?locale=en_US))
+[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iury-oliveira-1aa199207/?locale=en_US)
 
 ![Iury's GitHub stats](https://github-readme-stats.vercel.app/api?username=IuryOliveira567&show_icons=true&theme=tokyonight)
 
