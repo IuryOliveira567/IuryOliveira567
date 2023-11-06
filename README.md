@@ -4,6 +4,7 @@ Currently graduating in System Engineering at <span alt="Universidade Estadual d
 I'm a front-end developer with a passion for software development and design.  🧑🏽‍💻 <br/>
 
 📚 I’m currently learning ... Python, Postgresql
+🤓 Interested in software development, design and engineering
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iury-oliveira-1aa199207/?locale=en_US)
 
