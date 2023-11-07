@@ -1,9 +1,9 @@
 ### Hi there, my name is Iury Oliveira 🖖
 
-Currently graduating in System Engineering at <span alt="Universidade Estadual de Montes Claros">Unimontes</span> 🎓<br/>
-I'm a front-end developer with a passion for software development and design.  🧑🏽‍💻 <br/>
+🎓 Currently graduating in System Engineering at <span alt="Universidade Estadual de Montes Claros">Unimontes</span><br/>
+ 🧑🏽‍💻 I'm a front-end developer with a passion for software development and design. <br/>
 
-📚 I’m currently learning ... Python, Postgresql
+📚 I’m currently learning ... Python, Postgresql<br/>
 🤓 Interested in software development, design and engineering
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iury-oliveira-1aa199207/?locale=en_US)
